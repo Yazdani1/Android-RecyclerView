@@ -1,0 +1,45 @@
+<resources>
+    <string name="app_name">RecyclerView</string>
+
+    <string-array name="movie_name">
+
+        <item>"Dilwale"</item>
+        <item>"New Year"</item>
+        <item>"Dilwale"</item>
+        <item>"New Year"</item>
+        <item>"Dilwale"</item>
+        <item>"New Year"</item>
+        <item>"Dilwale"</item>
+        <item>"New Year"</item>
+        <item>"Dilwale"</item>
+        <item>"New Year"</item>
+        <item>"Dilwale"</item>
+        <item>"New Year"</item>
+        <item>"Dilwale"</item>
+        <item>"New Year"</item>
+
+
+    </string-array>
+
+
+    <string-array name="product_name">
+        <item>"Mac"</item>
+        <item>"Windo"</item>
+        <item>"Mac"</item>
+        <item>"Windo"</item>
+        <item>"Mac"</item>
+        <item>"Windo"</item>
+        <item>"Mac"</item>
+        <item>"Windo"</item>
+        <item>"Mac"</item>
+        <item>"Windo"</item>
+        <item>"Mac"</item>
+        <item>"Windo"</item>
+        <item>"Mac"</item>
+        <item>"Windo"</item>
+    </string-array>
+
+
+
+
+</resources>
